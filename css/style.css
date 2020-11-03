@@ -1,0 +1,109 @@
+/*
+html{
+  background-color: black;
+}*/
+
+
+ body {
+   background-color: brown;
+   background-image: url("../img/sfondo.jpg");
+
+ }
+
+.container{
+  margin: 0 auto;
+  width: 800px;
+
+}
+
+header {
+border-bottom: 4px solid white
+}
+
+.img{
+  padding-left: 5px;
+  display: inline;
+  vertical-align: middle;
+}
+
+.header-text{
+
+  padding-left: 10PX;
+  color: white;
+  font-size: 30px;
+}
+
+.header-container {
+  padding-top: 20px;
+  padding-bottom:20px;
+
+}
+
+.option-container{
+ padding-top: 10px;
+
+}
+
+.button-vai{
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+.display-message{
+  margin-top: 20px;
+  color: white;
+  font-size: 50px;
+}
+
+.trenta {
+  font-size: 45px;
+  padding: 10px;
+  display: inline-block;
+  background-color: orange;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+
+  /*   border: 10px solid orange;  */
+
+  }
+
+.section-container {
+  margin-top: 20px;
+  border-top: 4px solid white;
+  border-bottom: 4px solid white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  color: #999;
+}
+
+.section-grey{
+  background: #ccc;
+  margin-top: 2px;
+  font-size: 20px;
+}
+
+.section-white{
+  background: #fff;
+  margin-top: 2px;
+  font-size: 20px;
+}
+
+.section-text{
+  color: black;
+  font-weight: bold;
+}
+
+.footer-container {
+  font-size: 40px;
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.gmail-footer{
+  font-style: italic;
+  font-weight: normal;
+  font-size: 20px;
+}
